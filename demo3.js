@@ -1,0 +1,15 @@
+"use strict";
+exports.__esModule = true;
+var demo2_js_1 = require("./demo2.js");
+var obj2 = new demo2_js_1.demo2();
+obj2.addElement(55);
+// obj2.deleteElement();
+// obj2.deleteElement();
+// console.log(obj2.printArray());
+// obj2.foreach();
+// obj2.mapArray();
+// obj2.findArray();
+// obj2.filterArray();
+// obj2.someAndEvery();
+// obj2.sortArray();
+obj2.spreadOperatorArray();
